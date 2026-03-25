@@ -1,1 +1,2 @@
-# My-first-project
+# My-first-project 
+print("My first project")
